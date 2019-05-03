@@ -144,7 +144,7 @@ ul, ol {
 }
 
 .bg-dark {
-    background-color: #1E376D;
+    background-color: #1C1D21;
 }
 
 
@@ -679,7 +679,7 @@ header {
 }
 
 .work .overlay {
-    background: #1E376D;
+    background: #1C1D21;
     position: absolute;
     top: 0px;
     left: 0px;
@@ -802,7 +802,7 @@ header {
 
 .service:after {
     content: "";
-    background-color: #1E376D;
+    background-color: #1C1D21;
     position: absolute;
     left: 0;
     top: 0;
@@ -1032,7 +1032,7 @@ header {
 }
 
 .team .overlay {
-    background: #1E376D;
+    background: #1C1D21;
     position: absolute;
     bottom: 0;
     left: 0;
